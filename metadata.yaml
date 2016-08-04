@@ -1,0 +1,32 @@
+_repo: My-Life---Volume-2_5144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagner, Richard
+    aliases:
+    - Wagner, Wilhelm Richard
+    - Drach, Wilhelm
+    - Wagner, R. (Richard)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Germany -- Biography'
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883'
+- GITenberg
+title: My Life — Volume 2
+url: http://www.gutenberg.org/ebooks/5144
